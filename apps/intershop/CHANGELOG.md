@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.24](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/intershop-connector-v1.0.23...intershop-connector-v1.0.24) (2025-11-19)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/intershop ([#6521](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6521)) ([3605631](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/36056311e73e7eb6995c5d11d6b2c183b2c651be))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#7223](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7223)) ([451678b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/451678b9210cbb9948c904a1a5158ec6a5d291f0))
+* **deps:** bump the production-dependencies group in /apps/intershop with 4 updates ([#6975](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6975)) ([1ee8348](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/1ee8348ef31e498cfd20d6d76f2f2f0cf25ab7f7))
+
 ## [1.0.23](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.22...intershop-connector-v1.0.23) (2025-10-16)
 
 
