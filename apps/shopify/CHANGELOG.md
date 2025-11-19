@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.1.7](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/shopify-sku-v2.1.6...shopify-sku-v2.1.7) (2025-11-19)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/shopify ([#6515](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6515)) ([c04d6e9](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/c04d6e9aecaec8f2122945afcf5a9dc00e4e5d5e))
+* **deps:** bump core-js from 3.45.0 to 3.45.1 in /apps/shopify in the production-dependencies group ([#6233](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6233)) ([6c957d1](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/6c957d132309301e4710c2c1118a791457ca1da8))
+* **deps:** bump core-js from 3.45.1 to 3.46.0 in /apps/shopify in the production-dependencies group ([#6823](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6823)) ([11ee73b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/11ee73b8d1a68b6a90d68b036fe89f153a42ae05))
+* **deps:** bump js-yaml in /apps/shopify ([#7361](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7361)) ([d887520](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d887520a362202ba1011b3707de030bb856623a2))
+
 ## [2.1.6](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v2.1.5...shopify-sku-v2.1.6) (2025-10-16)
 
 
