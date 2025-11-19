@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.0.4](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/translationstudio-v1.0.3...translationstudio-v1.0.4) (2025-11-19)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.41.1 to 4.41.2 in /apps/translationstudio in the production-dependencies group ([#6397](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6397)) ([4481682](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/44816826cd0924889a74147962238065a741207b))
+* **deps:** bump @contentful/app-sdk from 4.41.2 to 4.43.0 in /apps/translationstudio in the production-dependencies group ([#6551](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6551)) ([f89baa0](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/f89baa0212c48da6815290fc07951a39cd813bfd))
+* **deps:** bump @contentful/app-sdk from 4.43.0 to 4.44.0 in /apps/translationstudio in the production-dependencies group ([#6563](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6563)) ([1f28792](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/1f2879294c39f26eee6ca717774031814be0e037))
+* **deps:** bump @contentful/app-sdk from 4.44.0 to 4.44.1 in /apps/translationstudio in the production-dependencies group ([#6611](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6611)) ([64f9ea7](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/64f9ea7e9daa4879a859c76fbf19e396432f9d2a))
+* **deps:** bump @contentful/app-sdk from 4.44.1 to 4.45.0 in /apps/translationstudio in the production-dependencies group ([#6653](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6653)) ([9856766](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/98567662c642f234b98969c1b6acbb44b914395b))
+* **deps:** bump @contentful/app-sdk from 4.45.0 to 4.46.0 in /apps/translationstudio in the production-dependencies group ([#7220](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7220)) ([bd98858](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/bd9885833bfb9ad4a0e0a0b25d751d5ca63bcc3f))
+* **deps:** bump axios from 1.8.4 to 1.12.0 in /apps/translationstudio ([#6505](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6505)) ([dd2da3e](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/dd2da3ebb4247575c8b51fd616b4689660c16360))
+* **deps:** bump js-yaml in /apps/translationstudio ([#7358](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7358)) ([45be866](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/45be86654e9edc04b392642f3421851307252f48))
+* **deps:** bump next from 15.4.7 to 15.5.0 in /apps/translationstudio in the production-dependencies group ([#6217](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6217)) ([a1dac9b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/a1dac9ba570e22831465ba811391ba381a6bdfd1))
+* **deps:** bump next from 15.5.0 to 15.5.2 in /apps/translationstudio in the production-dependencies group ([#6288](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6288)) ([36b977b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/36b977b4dc4c45eb48a1f7880932c37a779cefcc))
+* **deps:** bump next from 15.5.2 to 15.5.3 in /apps/translationstudio in the production-dependencies group ([#6450](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6450)) ([5c599bf](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/5c599bf5ee225c9c5176a49bc9bf45246d04d877))
+* **deps:** bump next from 15.5.3 to 15.5.4 in /apps/translationstudio in the production-dependencies group ([#6646](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6646)) ([f441847](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/f441847bd460aff8337e4e96ccf346b33d745c5b))
+* **deps:** bump next from 15.5.4 to 15.5.5 in /apps/translationstudio in the production-dependencies group ([#6774](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6774)) ([aa8ab39](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/aa8ab397174b4b618d0a5acd48e472ce4b5f3038))
+* **deps:** bump serve from 14.2.4 to 14.2.5 in /apps/translationstudio in the production-dependencies group ([#6392](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6392)) ([2ca96b9](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/2ca96b9dcfe38d8839e40a76afb8b3cd529c0244))
+
 ## [1.0.3](https://github.com/contentful/marketplace-partner-apps/compare/translationstudio-v1.0.2...translationstudio-v1.0.3) (2025-10-15)
 
 
