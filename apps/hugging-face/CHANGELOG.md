@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.6](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/hugging-face-v1.1.5...hugging-face-v1.1.6) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 4.1.0 to 4.1.1 in /apps/hugging-face ([#7348](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7348)) ([4c32076](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/4c32076582829f3fb1fb7d8f657b281e1ed98e7f))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/hugging-face ([#7587](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7587)) ([564318c](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/564318c3e2ff832e7c5f1c7817d36ce76b22f7bf))
+* **deps:** bump the production-dependencies group in /apps/hugging-face with 2 updates ([#6828](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6828)) ([893dea9](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/893dea918b0d37b79fe6ee038996d624a5af142b))
+
 ## [1.1.5](https://github.com/contentful/marketplace-partner-apps/compare/hugging-face-v1.1.4...hugging-face-v1.1.5) (2025-12-03)
 
 
