@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.2.8](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/sfmc-studio-v1.2.7...sfmc-studio-v1.2.8) (2026-02-04)
+
+
+### Bug Fixes
+
+* deploy script for sfmc-studio [] ([#6908](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6908)) ([e4a45c7](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/e4a45c77421a7aa88f4c664b94300560fb64a878))
+* **deps:** bump @contentful/app-sdk from 4.44.1 to 4.45.0 in /apps/sfmc-studio in the production-dependencies group ([#6652](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6652)) ([2cc7efb](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/2cc7efba96b2931be61922c4bd4f1ae534a57905))
+* **deps:** bump antd from 5.27.4 to 5.27.5 in /apps/sfmc-studio in the production-dependencies group ([#6793](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6793)) ([7913563](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/79135636a823ef4ee62b06eed82f21acbbe78197))
+* **deps:** bump js-yaml in /apps/sfmc-studio ([#7359](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7359)) ([09bab83](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/09bab837a3101302b5f6494a0b440d5d35c99844))
+* **deps:** bump lodash-es from 4.17.22 to 4.17.23 in /apps/sfmc-studio ([#7717](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7717)) ([abba065](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/abba065e8df3d75646ecdda1998919f11ef914c5))
+* **deps:** bump next from 15.5.7 to 15.5.8 in /apps/sfmc-studio ([#7524](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7524)) ([e5c5445](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/e5c54455b323220b088c4b97323fcf2b44a09ca1))
+* **deps:** bump next from 15.5.8 to 15.5.9 in /apps/sfmc-studio ([#7525](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7525)) ([0110e53](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/0110e5332b2030ded08d26f17fb48320a79a4b7c))
+* **deps:** bump next from 15.5.9 to 15.5.10 in /apps/sfmc-studio ([#7725](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7725)) ([d95a9bc](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d95a9bc77eaaddb3ca2a3672a83078b08470f3b3))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/sfmc-studio ([#7586](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7586)) ([17bcabc](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/17bcabc61a5a6f45f40468e55dd501140b916150))
+* **deps:** bump sass from 1.92.1 to 1.93.0 in /apps/sfmc-studio in the production-dependencies group ([#6613](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6613)) ([2876834](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/2876834b4155ea1df6ea4775d80e2e165fcaf9cc))
+* **deps:** bump sass from 1.93.0 to 1.93.1 in /apps/sfmc-studio in the production-dependencies group ([#6620](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6620)) ([4fcd855](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/4fcd855a99574c7fcbaa621028eb9b0bcc3f3254))
+* **deps:** bump the production-dependencies group across 1 directory with 4 updates ([#7426](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7426)) ([95c153e](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/95c153ef3125d7d42952aa6f86b235c3a635a0cd))
+* **deps:** bump the production-dependencies group across 1 directory with 5 updates ([#7609](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7609)) ([5982e80](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/5982e8005b962891dd66575031a6e2d1970560fa))
+* **deps:** bump the production-dependencies group across 1 directory with 6 updates ([#7116](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7116)) ([5fd1e09](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/5fd1e09b122597b6bd6b6610e8366262b52d5f1c))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#6550](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6550)) ([9814521](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/98145217b18c3b825bd9e1c4dfa5d8583611add0))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#6567](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6567)) ([7903524](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/7903524d0c42326a0a9f71fb0dc3a821901bdd64))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#6608](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6608)) ([bc7db59](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/bc7db59092c4e9142fe24c7c8c63e3cf7618c43f))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#6773](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6773)) ([906811e](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/906811ea3fa13b7f8f4ced0f235cd68fd32a661e))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 2 updates ([#7448](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7448)) ([1389ba8](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/1389ba8f0d509b1472fa89aab232ce91c315ed14))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 3 updates ([#6642](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6642)) ([47ea646](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/47ea646ae777a157d9a68dffb72aa8b23068d355))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 3 updates ([#7265](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7265)) ([6887ea8](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/6887ea8f44421d14ed1f4fbdc93b40ca0cb4a0d6))
+* **deps:** bump the production-dependencies group in /apps/sfmc-studio with 4 updates ([#7182](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7182)) ([d776f31](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d776f31628fd41a6407c75386fbda96c4faf0765))
+
 ## [1.2.7](https://github.com/contentful/marketplace-partner-apps/compare/sfmc-studio-v1.2.6...sfmc-studio-v1.2.7) (2025-12-03)
 
 
