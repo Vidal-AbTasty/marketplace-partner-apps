@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.8](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/ls-contentful-app-v1.0.7...ls-contentful-app-v1.0.8) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.41.0 to 4.45.0 in /apps/livestory in the production-dependencies group ([#6822](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6822)) ([b285945](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/b28594584bf2a28aada7258e568bbcf99122a211))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/livestory ([#7580](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7580)) ([a8dfd32](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/a8dfd320710766a1eff176370747e25c9d62327f))
+
 ## [1.0.7](https://github.com/contentful/marketplace-partner-apps/compare/ls-contentful-app-v1.0.6...ls-contentful-app-v1.0.7) (2025-10-16)
 
 
