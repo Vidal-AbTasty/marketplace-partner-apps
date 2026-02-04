@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.3.0](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/global-find-replace-v0.2.4...global-find-replace-v0.3.0) (2026-02-04)
+
+
+### Features
+
+* global find replace - enhanced updates summary page and large content entry handling [] ([#6477](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6477)) ([3049a6f](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/3049a6f4e303a27f4a23277c2e9b1c5f899aa2c5))
+
+
+### Bug Fixes
+
+* add deploy config for global-find-replace app [] ([#7610](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7610)) ([49e502e](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/49e502e4ef2d37313fc65e82abb474c594ef63f1))
+* **deps:** bump @sentry/react from 10.25.0 to 10.26.0 in /apps/global-find-replace in the production-dependencies group ([#7443](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7443)) ([b7171ca](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/b7171cab38f6a0b249f40bd13d47a1b20141f5e0))
+* **deps:** bump diff from 8.0.2 to 8.0.3 in /apps/global-find-replace ([#7714](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7714)) ([d7759b2](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d7759b2457898478b3f9aa85f7a54912cbc1355f))
+* **deps:** bump js-yaml from 4.1.0 to 4.1.1 in /apps/global-find-replace ([#7342](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7342)) ([d62275b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d62275b4de0ab4735d82d008efb75edcbed70940))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/global-find-replace ([#7594](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7594)) ([a909ee6](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/a909ee67eae99855fffa8a7816653a89a8042f3b))
+* **deps:** bump the production-dependencies group in /apps/global-find-replace with 2 updates ([#7409](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7409)) ([35c437d](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/35c437dda61ac88aa8b016fa008282538c3bb385))
+* **deps:** bump the production-dependencies group in /apps/global-find-replace with 4 updates ([#7735](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7735)) ([515c9fd](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/515c9fd79b6245e887c29015f8d939b54a93e988))
+* **deps:** bump the production-dependencies group in /apps/global-find-replace with 5 updates ([#7564](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7564)) ([f34a284](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/f34a2843bb516f6796ae5bb9c4b22dd619041e8b))
+* **deps:** bump the production-dependencies group in /apps/global-find-replace with 7 updates ([#7248](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7248)) ([05ee9ca](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/05ee9ca372abb01a48af69c818672033704e0f67))
+
 ## [0.2.4](https://github.com/contentful/marketplace-partner-apps/compare/global-find-replace-v0.2.3...global-find-replace-v0.2.4) (2026-01-15)
 
 
