@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.0.11](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/vwo-fme-v1.0.10...vwo-fme-v1.0.11) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.43.0 to 4.44.0 in /apps/vwo-fme in the production-dependencies group ([#6564](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6564)) ([7eb1706](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/7eb17062d45464baa167fcc8f6cfa15cf5bf5050))
+* **deps:** bump contentful-management from 11.57.2 to 11.57.3 in /apps/vwo-fme in the production-dependencies group ([#6558](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6558)) ([89c1330](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/89c133072a9a49e1ded8a4a647058a1d1e048f8d))
+* **deps:** bump contentful-management from 11.57.3 to 11.57.4 in /apps/vwo-fme in the production-dependencies group ([#6561](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6561)) ([7fe8b18](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/7fe8b18cf7683a4cf6e50bd6c34103b7b66a25eb))
+* **deps:** bump contentful-management from 11.58.0 to 11.58.1 in /apps/vwo-fme in the production-dependencies group ([#6640](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6640)) ([0c6cd46](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/0c6cd461b02070fe6717ae320ae5d190b99f088e))
+* **deps:** bump contentful-management from 11.60.0 to 11.60.1 in /apps/vwo-fme in the production-dependencies group ([#6674](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6674)) ([d990287](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/d990287e45c1f8389eb7f519c30d5e482882dbae))
+* **deps:** bump contentful-management from 11.60.1 to 11.60.2 in /apps/vwo-fme in the production-dependencies group ([#6694](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6694)) ([76b2a80](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/76b2a80f4dbd56990bf9f31a8ce9f135adc057cf))
+* **deps:** bump contentful-management from 11.60.2 to 11.60.3 in /apps/vwo-fme in the production-dependencies group ([#6712](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6712)) ([2491149](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/2491149b1d1cbf18ab5420ab3bd8fa43850d2e53))
+* **deps:** bump contentful-management from 11.60.3 to 11.60.4 in /apps/vwo-fme in the production-dependencies group ([#6729](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6729)) ([48bce24](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/48bce242b496e6fe0102c7a1d04ef5030f41c22f))
+* **deps:** bump contentful-management from 11.60.4 to 11.62.0 in /apps/vwo-fme in the production-dependencies group ([#6959](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6959)) ([456e6df](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/456e6df1df74d63c88d39a5b51bf92b1d0fbafa4))
+* **deps:** bump contentful-management from 11.63.1 to 11.66.0 in /apps/vwo-fme in the production-dependencies group ([#7544](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7544)) ([6f5d142](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/6f5d14228cf49d85457b2cafbe22404caad786ec))
+* **deps:** bump express from 4.21.2 to 4.22.1 in /apps/vwo-fme ([#7415](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7415)) ([052b672](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/052b672af194d44211d994c8b96923f9b679174a))
+* **deps:** bump js-yaml in /apps/vwo-fme ([#7357](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7357)) ([44c992c](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/44c992c2b53aaaf6a28415580e740ced7282ba13))
+* **deps:** bump lodash from 4.17.21 to 4.17.23 in /apps/vwo-fme ([#7720](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7720)) ([50d30f3](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/50d30f3763c71f9435399d87f7d406fba7c729bb))
+* **deps:** bump qs and body-parser in /apps/vwo-fme ([#7572](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7572)) ([1fdc5de](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/1fdc5de90d5f0c2a2dab5beae7f5a9d62ccf02e7))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#6549](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6549)) ([a6dd5d0](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/a6dd5d095de5f242d924bb874db7be32da057cad))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#6607](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6607)) ([5fd18f9](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/5fd18f98c54329bfd8c2c2a529cfc14ad8558702))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#6651](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6651)) ([0dea9a4](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/0dea9a4c332086e248bf86f486cff4beede13f98))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#7241](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7241)) ([3909f29](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/3909f296d0f5ae0e9c5e4f2e796ab884708838d1))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#7396](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7396)) ([8b0fc08](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/8b0fc084a2682f989c1c16e2d1dfffd4e4f2a47d))
+* **deps:** bump the production-dependencies group in /apps/vwo-fme with 2 updates ([#7730](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7730)) ([eede4ad](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/eede4ad4d5987b48d183a9fa86fad0a4a6897620))
+* **vwo-fme:** replace hardcoded locale with sdk constant [ZEND-7396] ([#7533](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7533)) ([1939be6](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/1939be63e3859523ceefbdfc5dcc1a7068ecf77d))
+
 ## [1.0.10](https://github.com/contentful/marketplace-partner-apps/compare/vwo-fme-v1.0.9...vwo-fme-v1.0.10) (2025-12-17)
 
 
