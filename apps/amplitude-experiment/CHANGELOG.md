@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.6](https://github.com/Vidal-AbTasty/marketplace-partner-apps/compare/amplitude-contentful-v1.1.5...amplitude-contentful-v1.1.6) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/amplitude-experiment ([#6540](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6540)) ([9466dbf](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/9466dbfd191ca55a2bda42eb9a95f54f771e9793))
+* **deps:** bump contentful-management from 11.60.4 to 11.62.0 in /apps/amplitude-experiment in the production-dependencies group ([#6956](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6956)) ([0d3ffd1](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/0d3ffd121e379cb90ecefe415a72cf33b92ab4f1))
+* **deps:** bump contentful-management from 11.63.1 to 11.66.0 in /apps/amplitude-experiment in the production-dependencies group ([#7539](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7539)) ([3a0eb93](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/3a0eb933ab7a6911705a1e3154c3321f3025f250))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/amplitude-experiment ([#7602](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7602)) ([b0def81](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/b0def8181ecc4a7e52a54c6a32e8e49e454f2315))
+* **deps:** bump the production-dependencies group in /apps/amplitude-experiment with 2 updates ([#6825](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/6825)) ([b384dc2](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/b384dc2f593b66a495d6d7f5983f57338e1564ca))
+* **deps:** bump the production-dependencies group in /apps/amplitude-experiment with 2 updates ([#7218](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7218)) ([e37ff2b](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/e37ff2b60098a1d42d6161c63d4e63960f2847c3))
+* **deps:** bump the production-dependencies group in /apps/amplitude-experiment with 2 updates ([#7386](https://github.com/Vidal-AbTasty/marketplace-partner-apps/issues/7386)) ([168a8ff](https://github.com/Vidal-AbTasty/marketplace-partner-apps/commit/168a8ff8f2a8b1f60110c430abb73daf02aa2253))
+
 ## [1.1.5](https://github.com/contentful/marketplace-partner-apps/compare/amplitude-contentful-v1.1.4...amplitude-contentful-v1.1.5) (2025-10-16)
 
 
